@@ -1,0 +1,65 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.traveldiv {
+    border: 1px solid gray;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.traveldiv img {
+    width: 100%;
+}
+
+.traveldiv hr {
+    width: 30%;
+}
+
+.traveldiv h5 {
+    margin-left: 20px;
+}
+
+.traveldiv p {
+    margin-left: 20px;
+}
+
+.movie_div {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.movie_div i {
+    float: right;
+}
+
+.movie-text span {
+    color:rgba( 225, 161, 35, 1 );
+}
+
+.sampleclass{
+    margin-top:13px;
+}
+
+.sampleclass h4{
+    border-bottom: 1px solid white;
+    padding:8px;
+}
+.sampleclass img{
+    border-radius: 25px;
+}
